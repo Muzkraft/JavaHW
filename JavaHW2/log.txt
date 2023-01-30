@@ -1,0 +1,18 @@
+янв. 28, 2023 12:59:32 AM org.example.Main bubbleSort
+INFO: [3, 1, 2, 4, 7, 4, 5, 0, 20, 98]
+янв. 28, 2023 12:59:32 AM org.example.Main bubbleSort
+INFO: [1, 2, 3, 4, 4, 5, 0, 7, 20, 98]
+янв. 28, 2023 12:59:32 AM org.example.Main bubbleSort
+INFO: [1, 2, 3, 4, 4, 0, 5, 7, 20, 98]
+янв. 28, 2023 12:59:32 AM org.example.Main bubbleSort
+INFO: [1, 2, 3, 4, 0, 4, 5, 7, 20, 98]
+янв. 28, 2023 12:59:32 AM org.example.Main bubbleSort
+INFO: [1, 2, 3, 0, 4, 4, 5, 7, 20, 98]
+янв. 28, 2023 12:59:32 AM org.example.Main bubbleSort
+INFO: [1, 2, 0, 3, 4, 4, 5, 7, 20, 98]
+янв. 28, 2023 12:59:32 AM org.example.Main bubbleSort
+INFO: [1, 0, 2, 3, 4, 4, 5, 7, 20, 98]
+янв. 28, 2023 12:59:32 AM org.example.Main bubbleSort
+INFO: [0, 1, 2, 3, 4, 4, 5, 7, 20, 98]
+янв. 28, 2023 12:59:32 AM org.example.Main main
+INFO: ok
